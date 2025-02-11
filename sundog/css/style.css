@@ -10,12 +10,16 @@ body{
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    background-color: #111;
+    background-image: url("../img/iloveyou.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    
 }
 .greetings{
     font-size: 6rem;
     font-weight: 900;
-    
     
 }
 .greetings > span.greetings{
